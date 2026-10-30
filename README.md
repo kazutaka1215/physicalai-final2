@@ -11,7 +11,7 @@ omnicampusアカウントID: 84500
 
 ## 使用技術
 - Python, numpy, matplotlib
-- Google Colab（無料枠）
+- Google Colab
 - 2リンク逆運動学（IK）によるアーム制御
 - 最小二乗法による放物軌道予測（推論のみ・学習不要）
 
@@ -24,7 +24,4 @@ omnicampusアカウントID: 84500
 - アーム先端高さの追従
 - 接触判定によるキャッチ→保持
 - 末尾余白(SAFE_MARGIN)による自然終了
-- 軽量・Colab無料枠で再現可能
 
-## 動画
-YouTube（限定公開、75秒）タイトル: `PAI最終課題_84500`
